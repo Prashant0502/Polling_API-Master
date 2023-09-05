@@ -1,12 +1,12 @@
-# POLLING SYSTEM API
+# POLLING API
 
-A simple polling system api where anyone can create questions with options and can also add votes to those options.
+A simple polling system api where anyone can create questions with options and can also add votes for those options.
 
 ## Requirements
 
-- Install [Node.js](https://nodejs.org/en/)
-- Install [MongoDB](https://docs.mongodb.com/manual/installation/)
-- Install [Postman](https://www.postman.com/downloads/) or use any other api testing tool
+- Install [Node.js].
+- Install [MongoDB].
+- Install [Postman].
 
 ## Getting Started
 
@@ -44,4 +44,4 @@ npm start
 
 ---
 
-## <samp>**_Enjoy Learning!!!_**</samp>
+
