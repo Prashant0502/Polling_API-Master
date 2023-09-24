@@ -2,9 +2,9 @@
   "name": "polling-system-api",
   "version": "1.0.0",
   "description": "An api for a polling system",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "author": "Prashant Singh",
   "license": "ISC",
